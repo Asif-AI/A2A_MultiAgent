@@ -1,0 +1,5 @@
+langgraph
+langchain_google_genai
+langchain_core
+langgraph
+python-dotenv
